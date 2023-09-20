@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FrenchTeacherApp</string>
+    <string name="instruction">please press button to hear the translation below in french</string>
+</resources>
